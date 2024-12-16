@@ -3,9 +3,8 @@
 - 🚀 Passionate about Coding, Mathematics, and Problem-Solving
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: -
-- [LinkedIn](www.linkedin.com/in/kevindeep-singh-pannu)
+- [LinkedIn](https://www.linkedin.com/in/kevindeep-singh-pannu-116319325/)
 - [Email](mailto:kdsp9206@gmail.com)
-- 😄 Pronouns: ...
 - ⚡ Fun fact:"I once accidentally wrote an infinite loop... and my computer made me infinite cups of coffee before I fixed it! ☕"
 
 <!---

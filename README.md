@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kevindeep Singh Pannu
 - 🎓 **Student | Aspiring Engineer**
-- 🚀 Passionate about Coding, Mathematics, and Problem-Solving
-- 🌱 I’m currently learning C++
 - 📫 How to reach me: -
 - [LinkedIn](https://www.linkedin.com/in/kevindeep-singh-pannu-116319325/)
 - [Email](mailto:kdsp9206@gmail.com)
